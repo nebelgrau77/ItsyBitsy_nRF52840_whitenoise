@@ -8,6 +8,7 @@ Sends random raw data to the display, emulating an old untuned TV.
 Retrieves the underlying display properties struct and allows calling of the low-level `draw()` method,
 sending a 512 byte buffer (128x32 pixel SSD1306) straight to the display.
 
+![random noise](whitenoise.gif)
 
 ### HOW TO FLASH:
 
